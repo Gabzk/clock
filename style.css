@@ -73,6 +73,26 @@ body {
     transition-timing-function: cubic-bezier(0.1, 2.7, 0.58, 1);
 }
 
+.hour-hand {
+    width: 35%;
+    left: 15%; 
+}
+
+.second-hand {
+    height: 3px;
+}
+
+.gear {
+    width: 1rem;
+    height: 1rem;
+    border-radius: 50%;
+    left: 50%;
+    background: rgba(255, 255, 255, 0.3);
+    transform: translate(-50%, -50%);
+}
+
+
+
 
 
     
