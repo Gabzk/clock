@@ -6,7 +6,7 @@ Este projeto apresenta um relógio digital e um analógico, feitos para estudo d
 
 ## Recursos
 
-- Exibição de relógio digital.
+- Exibição de relógio digital e analógico.
 - Ponteiros animados para segundos, minutos e horas.
 - Elemento de engrenagem central para um apelo visual adicional.
 - Design com uma aparência limpa.
